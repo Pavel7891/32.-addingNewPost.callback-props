@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/32.-addingNewPost.callback-props/static/css/main.27f3226b.css",
+    "main.js": "/32.-addingNewPost.callback-props/static/js/main.73500dff.js",
+    "index.html": "/32.-addingNewPost.callback-props/index.html",
+    "main.27f3226b.css.map": "/32.-addingNewPost.callback-props/static/css/main.27f3226b.css.map",
+    "main.73500dff.js.map": "/32.-addingNewPost.callback-props/static/js/main.73500dff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27f3226b.css",
+    "static/js/main.73500dff.js"
+  ]
+}
